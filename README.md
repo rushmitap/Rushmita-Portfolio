@@ -23,8 +23,9 @@ This portfolio is a space to showcase the things I build, the technologies I'm l
 
 ## Live Portfolio
 
-[View Portfolio](rushmita-portfolio-89azd5akt-rushmita2005-7458s-projects.vercel.app)
-
+<a href="https://rushmita-portfolio-p97pa0yx8-rushmita2005-7458s-projects.vercel.app" target="_blank">
+ 🌐 View Live Portfolio
+</a>
 ## Author
 
 Rushmita
